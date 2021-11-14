@@ -8,3 +8,6 @@ An application used to read Arabic and English number written on Egyptian id's u
 
 dependencies:
 tesseract 4.0 and cv2 (Also you have to put the models into your tessdata folder)
+
+the dataset link :- 
+https://www.kaggle.com/mostafaebrahiem/egyptian-ids
