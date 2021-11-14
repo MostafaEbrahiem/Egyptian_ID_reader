@@ -115,7 +115,7 @@ def extract_ara_num(img):
 
     img = resize_ara_num(img)
     h,w,ch=img.shape
-    img = img[int(h/1.8):int(h/1.08), int(w/3):int(w/1)]
+    img = img[int(h/1.8):int(h/1.08), int(w/2.8):int(w/1)]
     copy=img
     ##############################
 
